@@ -14,7 +14,7 @@ http://osuskills.com
 
 Project is built with QT Creator using MinGW 7.3.0 x64 compiler for C/C++
 
-It uses external libraries: osuSkills.dll (will be open-source some day)
+It uses external libraries: [osuSkills.dll](https://github.com/Kert/osuSkills)
 
 # Contributing
 Anyone is free to improve current calculations for a better system and ranking
