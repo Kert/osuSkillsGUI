@@ -597,7 +597,7 @@ void MainWindow::ShowRanking(RANKING_TYPE skill)
     rankingCreated[skill] = true;
 }
 
-void MainWindow::on_tabWidget_tabBarClicked(int index)
+void MainWindow::on_tabWidget_main_tabBarClicked(int index)
 {
     if(index != 1)
         return;

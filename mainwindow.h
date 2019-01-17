@@ -107,7 +107,7 @@ private slots:
 
     void on_pushButton_selectAll_clicked();
 
-    void on_tabWidget_tabBarClicked(int index);
+    void on_tabWidget_main_tabBarClicked(int index);
 
     void on_tabWidget_ranking_currentChanged(int index);
 
